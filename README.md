@@ -29,7 +29,7 @@ This is a modern, responsive **electronics e-commerce website** built with **Rea
 
 ![Image](https://github.com/user-attachments/assets/67e2919a-205d-4b01-85b1-575d0ccb6443))
 
-
+[ Cart ]
 ![Image](https://github.com/user-attachments/assets/1a9dcd4b-9882-4f09-806b-27377d317518)
 
 ![Image](https://github.com/user-attachments/assets/5eb8fea3-9c93-4598-970c-4db413ac4f2e)
