@@ -24,7 +24,8 @@ This is a modern, responsive **electronics e-commerce website** built with **Rea
 | **Vercel** | Cloud platform used for deployment |
 
 ## 📸 Screenshots
-
+[Login Page]
+![Image](https://github.com/user-attachments/assets/4386ac6f-8a81-4feb-b627-a65857693a5c)
 ![Homepage](![Image](https://github.com/user-attachments/assets/9f96e0f7-ca84-4084-b5bd-7ee39e1a3409)
 
 ![Image](https://github.com/user-attachments/assets/67e2919a-205d-4b01-85b1-575d0ccb6443))
